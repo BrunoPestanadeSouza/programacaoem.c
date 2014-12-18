@@ -2,5 +2,8 @@
 
 void main{
 int n,h,j;
-Printf (h é igual a j);
+printf (h é igual a j);
+n = n + J + H;
+n = 16;
+j = 4;
 }
